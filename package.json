@@ -1,0 +1,11 @@
+{
+  "name": "fokus-local-storage",
+  "version": "1.0.0",
+  "description": "![](thumbnail.png)",
+  "main": "script-crud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Istefanifc",
+  "license": "ISC"
+}
